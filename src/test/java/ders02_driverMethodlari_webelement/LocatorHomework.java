@@ -37,8 +37,7 @@ public class LocatorHomework {
 
         driver.findElement(By.className("s-image")).click();
         /*
-        Eger bir locate ile birden fazla element bulunuyorsa
-        selenium ilk elementi kullanir
+        Eger bir locate ile birden fazla element bulunuyorsa selenium ilk elementi kullanir
          */
         Thread.sleep(5000);
 
