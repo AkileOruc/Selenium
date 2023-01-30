@@ -5,7 +5,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-public class TekrarTesti {
+public class TekrarTestislayt31 {
    /* 1. Yeni bir class olusturun (TekrarTesti)
       2. Youtube web sayfasına gidin ve sayfa başlığının “youtube” olup olmadığını
     doğrulayın (verify), eğer değilse doğru başlığı(Actual Title) konsolda yazdirin.

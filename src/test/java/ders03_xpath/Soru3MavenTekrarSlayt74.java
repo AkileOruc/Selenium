@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Soru3MavenTekrar {
+public class Soru3MavenTekrarSlayt74 {
     public static void main(String[] args) throws InterruptedException {
        /* 1- C01_TekrarTesti isimli bir class olusturun
         2- https://www.google.com/ adresine gidin

@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C07_ManageWindowSetHomework {
+public class Soru2ManageWindowSetSlayt29 {
     public static void main(String[] args) throws InterruptedException {
       /*  1. Yeni bir Class olusturalim.C07_ManageWindowSet
         2. Amazon soyfasina gidelim. https://www.amazon.com/

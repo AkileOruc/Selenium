@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Homework {
+public class soru3HomeworkSlayt30 {
     public static void main(String[] args) throws InterruptedException {
   /*1.Yeni bir class olusturalim (Homework)
     2.ChromeDriver kullanarak, facebook sayfasina gidin ve sayfa basliginin

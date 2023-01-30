@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class ExerciseCategoryTesti {
+public class Soru5ExerciseCategorySlayt42 {
     public static void main(String[] args) {
    /*   1- Bir test class’i olusturun ilgili ayarlari yapin
         2- https://www.automationexercise.com/ adresine gidin

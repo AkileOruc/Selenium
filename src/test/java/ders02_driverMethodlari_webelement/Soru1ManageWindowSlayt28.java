@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class C06_ManageWindowHomework {
+public class Soru1ManageWindowSlayt28 {
 /*1. Yeni bir Class olusturalim.C06_ManageWindow
   2. Amazon soyfasina gidelim. https://www.amazon.com/
   3. Sayfanin konumunu ve boyutlarini yazdirin

@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class Soru1Xpath {
+public class Soru1XpathSlayt57 {
 
     public static void main(String[] args) throws InterruptedException {
      /* 1- https://the-internet.herokuapp.com/add_remove_elements/ adresine gidin

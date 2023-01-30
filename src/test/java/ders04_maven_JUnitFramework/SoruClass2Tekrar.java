@@ -5,11 +5,10 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chromium.ChromiumDriver;
 
 import java.time.Duration;
 
-public class Soru2Tekrar {
+public class SoruClass2Tekrar {
 /*1. http://zero.webappsecurity.com sayfasina gidin
   2. Signin butonuna tiklayin
   3. Login alanine “username” yazdirin

@@ -9,7 +9,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class HomeworkAmazonAramaTesti {
+public class Soru4AmazonAramaTestiSlayt38 {
     public static void main(String[] args) throws InterruptedException {
       /*  Amazon Arama Testi
         1- Bir test class’i olusturun ilgili ayarlari yapin

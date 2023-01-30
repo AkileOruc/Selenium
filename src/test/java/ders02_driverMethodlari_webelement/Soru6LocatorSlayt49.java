@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 import java.util.List;
 
-public class LocatorHomework {
+public class Soru6LocatorSlayt49 {
     /*1- https://www.amazon.com/ sayfasına gidin.
       2- Arama kutusuna “city bike” yazip aratin
       3- Görüntülenen sonuçların sayısını yazdırın
