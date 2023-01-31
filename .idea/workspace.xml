@@ -6,20 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="849d653b-0979-4282-99d6-f4a28a02c679" name="Changes" comment="Selenium">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders01_SeleniumaGiris/TekrarTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders01_SeleniumaGiris/TekrarTestislayt31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/C06_ManageWindowHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/Soru1ManageWindowSlayt28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/C07_Cozum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/Soru2ikinciCozum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/C07_ManageWindowSetHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/Soru2ManageWindowSetSlayt29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/ExerciseCategoryTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/Soru5ExerciseCategorySlayt42.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/soru3HomeworkSlayt30.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/HomeworkAmazonAramaTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/Soru4AmazonAramaTestiSlayt38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/LocatorHomework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/Soru6LocatorSlayt49.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders03_xpath/Soru1Xpath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders03_xpath/Soru1XpathSlayt57.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders03_xpath/Soru2ClassWork.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders03_xpath/Soru2ClassWorkSlayt72.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders03_xpath/Soru3MavenTekrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders03_xpath/Soru3MavenTekrarSlayt74.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders04_maven_JUnitFramework/JUnitSoru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders04_maven_JUnitFramework/JUnitSoru1Slayt75.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders04_maven_JUnitFramework/Soru2Tekrar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders04_maven_JUnitFramework/SoruClass2Tekrar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/soru3HomeworkSlayt30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders02_driverMethodlari_webelement/Soru3HomeworkSlayt30.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,8 +60,8 @@
       <recent name="C:\Users\met_o\Desktop\AKILE\com.team114\src\test\java\ders04_maven_JUnitFramework" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Soru1Slayt99">
-    <configuration name="C06_ExplicitlyWait" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.soru1ActionSlayt133">
+    <configuration name="C02_KeyboardActions" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
@@ -83,13 +70,28 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ders08_actions_fileTestleri" />
-      <option name="MAIN_CLASS_NAME" value="ders08_actions_fileTestleri.C06_ExplicitlyWait" />
+      <option name="MAIN_CLASS_NAME" value="ders08_actions_fileTestleri.C02_KeyboardActions" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru1Slayt99" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Soru3Slayt132YaklasincaAcilanMenu" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.team114" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders07_testBase_handleWindows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ders07_testBase_handleWindows" />
+      <option name="MAIN_CLASS_NAME" value="ders07_testBase_handleWindows.Soru3Slayt132YaklasincaAcilanMenu" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soru4Slayt111NON" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
@@ -98,13 +100,13 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ders06_jsAlerts_iFrame" />
-      <option name="MAIN_CLASS_NAME" value="ders06_jsAlerts_iFrame.Soru1Slayt99" />
+      <option name="MAIN_CLASS_NAME" value="ders06_jsAlerts_iFrame.Soru4Slayt111NON" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru1Slayt99.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Soru4Slayt111NON.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
@@ -113,38 +115,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ders06_jsAlerts_iFrame" />
-      <option name="MAIN_CLASS_NAME" value="ders06_jsAlerts_iFrame.Soru1Slayt99" />
-      <option name="METHOD_NAME" value="test01" />
+      <option name="MAIN_CLASS_NAME" value="ders06_jsAlerts_iFrame.Soru4Slayt111NON" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru4Dropdown" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="soru1ActionSlayt133" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ders05_junitAssertions.*" />
+          <option name="PATTERN" value="ders08_actions_fileTestleri.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ders05_junitAssertions" />
-      <option name="MAIN_CLASS_NAME" value="ders05_junitAssertions.Soru4Dropdown" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Soru5SelectMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.team114" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ders05_junitAssertions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ders05_junitAssertions" />
-      <option name="MAIN_CLASS_NAME" value="ders05_junitAssertions.Soru5SelectMethod" />
+      <option name="PACKAGE_NAME" value="ders08_actions_fileTestleri" />
+      <option name="MAIN_CLASS_NAME" value="ders08_actions_fileTestleri.soru1ActionSlayt133" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Soru1Slayt99" />
-        <item itemvalue="JUnit.Soru1Slayt99.test01" />
-        <item itemvalue="JUnit.Soru4Dropdown" />
-        <item itemvalue="JUnit.Soru5SelectMethod" />
-        <item itemvalue="JUnit.C06_ExplicitlyWait" />
+        <item itemvalue="JUnit.soru1ActionSlayt133" />
+        <item itemvalue="JUnit.C02_KeyboardActions" />
+        <item itemvalue="JUnit.Soru3Slayt132YaklasincaAcilanMenu" />
+        <item itemvalue="JUnit.Soru4Slayt111NON" />
+        <item itemvalue="JUnit.Soru4Slayt111NON.test" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +177,8 @@
       <workItem from="1674899770192" duration="2534000" />
       <workItem from="1674902840346" duration="20185000" />
       <workItem from="1674989968956" duration="24803000" />
-      <workItem from="1675068798540" duration="10415000" />
+      <workItem from="1675068798540" duration="28185000" />
+      <workItem from="1675152430986" duration="12482000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium">
       <created>1674549915741</created>
@@ -206,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674600076955</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Selenium">
+      <created>1675090297393</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675090297393</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
