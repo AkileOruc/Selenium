@@ -2,10 +2,9 @@ package ders07_testBase_handleWindows;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
-import org.openqa.selenium.WebElement;
 import utilities.TestBaseMethod;
 
-public class Soru2AlertSlayt103 extends TestBaseMethod {
+public class Soru1AlertSlayt103 extends TestBaseMethod {
 
 
     @Test

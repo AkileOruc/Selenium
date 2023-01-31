@@ -1,5 +1,6 @@
 package ders08_actions_fileTestleri;
 
+import org.junit.Assert;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -7,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBaseMethod;
 
-public class soru1ActionSlayt133 extends TestBaseMethod {
+public class soru3ActionSlayt133 extends TestBaseMethod {
 /* 1- Bir Class olusturalim KeyboardActions2
    2- https://html.com/tags/iframe/ sayfasina gidelim
    3- video’yu gorecek kadar asagi inin
@@ -38,17 +39,22 @@ driver.get("https://html.com/tags/iframe/");
         driver.switchTo().frame(frameElementi);
         driver.switchTo().defaultContent();
 
-        WebElement youtube = driver.findElement(By.xpath("//*[@class='ytp-cued-thumbnail-overlay']"));
+       Thread.sleep(3000);
+       actions.moveToElement(frameElementi).click().perform();
 
-        actions.moveToElement(youtube);
+        Thread.sleep(3000);
 
-        WebElement videoOynat = driver.findElement(By.xpath("//button[@class='ytp-large-play-button ytp-button ytp-large-play-button-red-bg']"));
 
-        //actions.moveToElement(videoOynat).click();
+        //WebElement videoOynat = driver.findElement(By.xpath("//*[@class='ytp-cued-thumbnail-overlay-image']"));
+       // WebElement videoOynat = driver.findElement(By.xpath("//*[@style='background-image: url(\"https://i.ytimg.com/vi_webp/owsfdh4gxyc/hqdefault.webp\");']"));
+        WebElement videoOynat = driver.findElement(By.xpath("(//*[@data-layer='4'])[1]"));
+        Thread.sleep(3000);
+        actions.moveToElement(videoOynat).click().perform();
 
-        videoOynat.click();
 
-//5- videoyu calistirdiginizi test edin*/
+      //5- videoyu calistirdiginizi test edin*/
+      WebElement videoBilgiYazisi=driver.findElement(By.xpath("(//a[@href='https://www.youtube.com/watch?v=owsfdh4gxyc'])[2]"));
 
+      Assert.assertTrue(videoBilgiYazisi.isDisplayed());
     }
 }

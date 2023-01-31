@@ -1,4 +1,4 @@
-package ders07_testBase_handleWindows;
+package ders08_actions_fileTestleri;
 
 import org.junit.Test;
 import org.openqa.selenium.By;
@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBaseMethod;
 
-public class Soru3Slayt132YaklasincaAcilanMenu extends TestBaseMethod {
+public class Soru2Slayt132YaklasincaAcilanMenu extends TestBaseMethod {
    /* 1- "http://webdriveruniversity.com/Actions" sayfasina gidin
 2- Hover over Me First" kutusunun ustune gelin
 3- Link 1" e tiklayin

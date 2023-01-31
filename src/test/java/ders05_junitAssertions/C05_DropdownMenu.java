@@ -30,18 +30,24 @@ public class C05_DropdownMenu {
     @Test
     public void dropdownesti() throws InterruptedException {
         driver.get("https://www.amazon.com");
+
         // arama kutusunun yanindaki dropdown menuden books secenegini secin
         // - once dropdown menuyu locate edelim
         WebElement ddm= driver.findElement(By.xpath("//select[@id='searchDropdownBox']"));
+
         // - Select class'indan bir obje olusturup, parametre olarak locate ettigimiz ddm'yu girelim
         Select select= new Select(ddm);
+
         // - select objesini kullanarak istenen islemi yapin
         select.selectByVisibleText("Books");
+
         // arama kutusuna Java yazip aratin
         WebElement aramaKutusu=driver.findElement(By.id("twotabsearchtextbox"));
         aramaKutusu.sendKeys("Java" + Keys.ENTER);
+
         // arama sonuclarinin 1000'den fazla oldugunu test edin
         WebElement sonucYaziElementi=driver.findElement(By.xpath("//h1[@class='a-size-base s-desktop-toolbar a-text-normal']"));
+
         // Verilen bir metinden sayiyi alip
         // onu tam sayiya cevirmemiz icin Java'dan String Manipulation method'larini kullaniriz
         String sonucYazisiStr= sonucYaziElementi.getText();;
@@ -49,8 +55,10 @@ public class C05_DropdownMenu {
         String sonucSayisiStr= sonucYaziArr[3];
         System.out.println(sonucSayisiStr);
         sonucSayisiStr = sonucSayisiStr.replaceAll("\\D","");
+
         // elde ettigimiz String sonuc sayisini integer'a cevirmeliyiz
         int sonucSayisiInt = Integer.parseInt(sonucSayisiStr);
+
         // Artik testimizi yapabiliriz
         int expectedAramaSonucu=1000;
         Assert.assertTrue(sonucSayisiInt>expectedAramaSonucu);

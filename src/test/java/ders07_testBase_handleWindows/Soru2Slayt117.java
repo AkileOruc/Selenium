@@ -5,7 +5,7 @@ import org.junit.Test;
 import org.openqa.selenium.WindowType;
 import utilities.TestBaseMethod;
 
-public class Soru1Slayt117 extends TestBaseMethod {
+public class Soru2Slayt117 extends TestBaseMethod {
 
     /*Yeni bir class olusturun: WindowHandle
 ● Amazon anasayfa adresine gidin.
