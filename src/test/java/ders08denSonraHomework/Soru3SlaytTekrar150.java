@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBaseMethod;
 
-public class Soru2 extends TestBaseMethod {
+public class Soru3SlaytTekrar150 extends TestBaseMethod {
 
 /*“http://webdriveruniversity.com/IFrame/index.html” sayfasina gidin
 2. “Our Products” butonuna basin

@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import utilities.TestBaseMethod;
 
-public class Soru1 extends TestBaseMethod {
+public class Soru1HizTestSlayt148 extends TestBaseMethod {
   /*  1. Bir class olusturun : WaitTest
 2. Iki tane metod olusturun : implicitWait() , explicitWait() Iki metod icin de asagidaki adimlari test edin.
 3. https://the-internet.herokuapp.com/dynamic_controls adresine gidin.

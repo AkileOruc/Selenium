@@ -14,7 +14,7 @@ import utilities.TestBaseMethod;
 
 import java.util.List;
 
-public class Soru3GenelTekrarSlayt134 extends TestBaseMethod {
+public class Soru4GenelTekrarSlayt134 extends TestBaseMethod {
   /*  Test01 :==================
 1- amazon gidin
 2- Arama kutusunun solundaki dropdown menuyu handle edip listesini ekrana yazdırın
