@@ -13,7 +13,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.time.Duration;
 
-public class ders3 {
+public class ders03 {
 
     // ilgili kurulumlari tamamlayalim
 // Kullanici https://www.google.com adresine gider
@@ -41,10 +41,14 @@ driver.get(https+"google.com");
 driver.findElement(By.xpath("(//div[@role='none'])[11]")).click();
 
 WebElement googleAramaKutusu= driver.findElement(By.xpath("//*[@class='gLFyf']"));
-      googleAramaKutusu.sendKeys("euro to dollar"+ Keys.ENTER);
+ googleAramaKutusu.sendKeys("euro to dollar"+ Keys.ENTER);
+    Thread.sleep(200);
 
 WebElement paraninDegeri=driver.findElement(By.xpath("//*[@class='DFlfde SwHCTb']"));
+
 String dollar=paraninDegeri.getText();
+Thread.sleep(200);
+    Assert.assertNotEquals(dollar,2);
 
 
 

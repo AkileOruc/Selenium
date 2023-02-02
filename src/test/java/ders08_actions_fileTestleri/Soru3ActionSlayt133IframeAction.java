@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
 import utilities.TestBaseMethod;
 
-public class soru3ActionSlayt133 extends TestBaseMethod {
+public class Soru3ActionSlayt133IframeAction extends TestBaseMethod {
 /* 1- Bir Class olusturalim KeyboardActions2
    2- https://html.com/tags/iframe/ sayfasina gidelim
    3- video’yu gorecek kadar asagi inin
