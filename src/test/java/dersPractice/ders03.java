@@ -1,4 +1,4 @@
-package Practice;
+package dersPractice;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;

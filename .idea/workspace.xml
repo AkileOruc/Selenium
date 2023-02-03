@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="849d653b-0979-4282-99d6-f4a28a02c679" name="Changes" comment="Selenium">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru1HizTestSlayt148.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru3SlaytTekrar150.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/ders01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dersPractice/ders01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/ders02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dersPractice/ders02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/ders03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dersPractice/ders03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru2EnableSlayt149.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru2EnableSlayt149.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru4HandleSlayt152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru4HandleSlayt152.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,22 +64,7 @@
       <recent name="C:\Users\met_o\Desktop\AKILE\com.team114\src\test\java\ders04_maven_JUnitFramework" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Soru1KeyboardActionSlayt129">
-    <configuration name="Soru1HizTestSlayt148" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="com.team114" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ders08_actions_fileTestleri.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="ders08denSonraHomework" />
-      <option name="MAIN_CLASS_NAME" value="ders08denSonraHomework.Soru1HizTestSlayt148" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.Soru4HandleSlayt152">
     <configuration name="Soru1KeyboardActionSlayt129" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
@@ -92,7 +80,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru3ActionIframeActionSlayt133" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Soru2EnableSlayt149" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.team114" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ders08denSonraHomework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ders08denSonraHomework" />
+      <option name="MAIN_CLASS_NAME" value="ders08denSonraHomework.Soru2EnableSlayt149" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Soru4GenelTekrarSlayt134" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
@@ -101,37 +104,37 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ders08_actions_fileTestleri" />
-      <option name="MAIN_CLASS_NAME" value="ders08_actions_fileTestleri.Soru3ActionIframeActionSlayt133" />
+      <option name="MAIN_CLASS_NAME" value="ders08_actions_fileTestleri.Soru4GenelTekrarSlayt134" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru3SlaytTekrar150" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Soru4HandleSlayt152" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ders08_actions_fileTestleri.*" />
+          <option name="PATTERN" value="ders08denSonraHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ders08denSonraHomework" />
-      <option name="MAIN_CLASS_NAME" value="ders08denSonraHomework.Soru3SlaytTekrar150" />
+      <option name="MAIN_CLASS_NAME" value="ders08denSonraHomework.Soru4HandleSlayt152" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru3SlaytTekrar150.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Soru4HandleSlayt152.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ders08_actions_fileTestleri.*" />
+          <option name="PATTERN" value="ders08denSonraHomework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="ders08denSonraHomework" />
-      <option name="MAIN_CLASS_NAME" value="ders08denSonraHomework.Soru3SlaytTekrar150" />
+      <option name="MAIN_CLASS_NAME" value="ders08denSonraHomework.Soru4HandleSlayt152" />
       <option name="METHOD_NAME" value="test01" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
@@ -140,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Soru4HandleSlayt152" />
+        <item itemvalue="JUnit.Soru4HandleSlayt152.test01" />
+        <item itemvalue="JUnit.Soru4GenelTekrarSlayt134" />
+        <item itemvalue="JUnit.Soru2EnableSlayt149" />
         <item itemvalue="JUnit.Soru1KeyboardActionSlayt129" />
-        <item itemvalue="JUnit.Soru3SlaytTekrar150" />
-        <item itemvalue="JUnit.Soru3SlaytTekrar150.test01" />
-        <item itemvalue="JUnit.Soru3ActionIframeActionSlayt133" />
-        <item itemvalue="JUnit.Soru1HizTestSlayt148" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +185,8 @@
       <workItem from="1675152430986" duration="15085000" />
       <workItem from="1675184564439" duration="11077000" />
       <workItem from="1675246203731" duration="34916000" />
-      <workItem from="1675329023976" duration="7727000" />
+      <workItem from="1675329023976" duration="19541000" />
+      <workItem from="1675411313581" duration="6257000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium">
       <created>1674549915741</created>
@@ -247,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675343954341</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Selenium">
+      <created>1675344440687</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675344440687</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
