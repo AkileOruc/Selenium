@@ -6,11 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="849d653b-0979-4282-99d6-f4a28a02c679" name="Changes" comment="Selenium">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/ders01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dersPractice/ders01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/ders02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dersPractice/ders02.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/ders03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/dersPractice/ders03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru2EnableSlayt149.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru2EnableSlayt149.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ders08_actions_fileTestleri/C02_KeyboardActions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08_actions_fileTestleri/C02_KeyboardActions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ders08_actions_fileTestleri/C03_DosyaYolu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08_actions_fileTestleri/C03_DosyaYolu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ders08_actions_fileTestleri/C04_FileDownloadsTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08_actions_fileTestleri/C04_FileDownloadsTesti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ders08_actions_fileTestleri/C06_ExplicitlyWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08_actions_fileTestleri/C06_ExplicitlyWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru1HizTestSlayt148.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru1HizTestSlayt148.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru4HandleSlayt152.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ders08denSonraHomework/Soru4HandleSlayt152.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/TestBaseMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/TestBaseMethod.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,103 +54,113 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/aydog/IdeaProjects/Selenium/src/test/java/ders10_excelOtomasyonu_screenshort&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\aydog\IdeaProjects\Selenium\src\test\java\ders10_excelOtomasyonu_screenshort" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\aydog\IdeaProjects\Selenium\src\test\java\ders10_excelOtomasyonu_screenshot" />
+      <recent name="C:\Users\aydog\IdeaProjects\Selenium\src\test\java\ders10_exelOtomasyonu_screenshort" />
       <recent name="C:\Users\met_o\Desktop\AKILE\com.team114\src\test\java\ders04_maven_JUnitFramework" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Soru4HandleSlayt152">
-    <configuration name="Soru1KeyboardActionSlayt129" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.Soru1Slayt99">
+    <configuration name="C04_TumSayfaGetScreenshot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ders08_actions_fileTestleri.*" />
+          <option name="PATTERN" value="ders10_excelOtomasyonu_screenshot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ders08_actions_fileTestleri" />
-      <option name="MAIN_CLASS_NAME" value="ders08_actions_fileTestleri.Soru1KeyboardActionSlayt129" />
+      <option name="PACKAGE_NAME" value="ders10_excelOtomasyonu_screenshot" />
+      <option name="MAIN_CLASS_NAME" value="ders10_excelOtomasyonu_screenshot.C04_TumSayfaGetScreenshot" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru2EnableSlayt149" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C05_IstenenElementGetScreenshot" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ders08denSonraHomework.*" />
+          <option name="PATTERN" value="ders10_excelOtomasyonu_screenshot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ders08denSonraHomework" />
-      <option name="MAIN_CLASS_NAME" value="ders08denSonraHomework.Soru2EnableSlayt149" />
+      <option name="PACKAGE_NAME" value="ders10_excelOtomasyonu_screenshot" />
+      <option name="MAIN_CLASS_NAME" value="ders10_excelOtomasyonu_screenshot.C05_IstenenElementGetScreenshot" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru4GenelTekrarSlayt134" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C07_JsExecutorScroll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ders08_actions_fileTestleri.*" />
+          <option name="PATTERN" value="ders10_excelOtomasyonu_screenshot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ders08_actions_fileTestleri" />
-      <option name="MAIN_CLASS_NAME" value="ders08_actions_fileTestleri.Soru4GenelTekrarSlayt134" />
+      <option name="PACKAGE_NAME" value="ders10_excelOtomasyonu_screenshot" />
+      <option name="MAIN_CLASS_NAME" value="ders10_excelOtomasyonu_screenshot.C07_JsExecutorScroll" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru4HandleSlayt152" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Soru1Slayt99" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ders08denSonraHomework.*" />
+          <option name="PATTERN" value="ders06_jsAlerts_iFrame.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ders08denSonraHomework" />
-      <option name="MAIN_CLASS_NAME" value="ders08denSonraHomework.Soru4HandleSlayt152" />
+      <option name="PACKAGE_NAME" value="ders06_jsAlerts_iFrame" />
+      <option name="MAIN_CLASS_NAME" value="ders06_jsAlerts_iFrame.Soru1Slayt99" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Soru4HandleSlayt152.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="C04_TumSayfaGetScreenshot" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="com.team114" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ders08denSonraHomework.*" />
+          <option name="PATTERN" value="ders10_excelOtomasyonu_screenshot.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="ders08denSonraHomework" />
-      <option name="MAIN_CLASS_NAME" value="ders08denSonraHomework.Soru4HandleSlayt152" />
-      <option name="METHOD_NAME" value="test01" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="ders10_excelOtomasyonu_screenshot" />
+      <option name="MAIN_CLASS_NAME" value="ders10_excelOtomasyonu_screenshot.C04_TumSayfaGetScreenshot" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Soru4HandleSlayt152" />
-        <item itemvalue="JUnit.Soru4HandleSlayt152.test01" />
-        <item itemvalue="JUnit.Soru4GenelTekrarSlayt134" />
-        <item itemvalue="JUnit.Soru2EnableSlayt149" />
-        <item itemvalue="JUnit.Soru1KeyboardActionSlayt129" />
+        <item itemvalue="JUnit.Soru1Slayt99" />
+        <item itemvalue="JUnit.C07_JsExecutorScroll" />
+        <item itemvalue="JUnit.C05_IstenenElementGetScreenshot" />
+        <item itemvalue="JUnit.C04_TumSayfaGetScreenshot" />
+        <item itemvalue="TestNG.C04_TumSayfaGetScreenshot" />
       </list>
     </recent_temporary>
   </component>
@@ -186,7 +199,38 @@
       <workItem from="1675184564439" duration="11077000" />
       <workItem from="1675246203731" duration="34916000" />
       <workItem from="1675329023976" duration="19541000" />
-      <workItem from="1675411313581" duration="6257000" />
+      <workItem from="1675411313581" duration="6274000" />
+      <workItem from="1675419436306" duration="1032000" />
+      <workItem from="1675421607135" duration="1262000" />
+      <workItem from="1675423762097" duration="530000" />
+      <workItem from="1675426150176" duration="4340000" />
+      <workItem from="1675447517629" duration="5470000" />
+      <workItem from="1675506398591" duration="11230000" />
+      <workItem from="1675620695764" duration="8428000" />
+      <workItem from="1675677576337" duration="2688000" />
+      <workItem from="1675707091313" duration="4561000" />
+      <workItem from="1675767040544" duration="10102000" />
+      <workItem from="1675845613120" duration="8377000" />
+      <workItem from="1675884809838" duration="1597000" />
+      <workItem from="1675891472609" duration="2186000" />
+      <workItem from="1675951066839" duration="1521000" />
+      <workItem from="1675984379344" duration="715000" />
+      <workItem from="1676052954083" duration="10663000" />
+      <workItem from="1676114681304" duration="1772000" />
+      <workItem from="1676142401442" duration="29000" />
+      <workItem from="1676385100816" duration="167000" />
+      <workItem from="1676421424711" duration="329000" />
+      <workItem from="1676455022347" duration="425000" />
+      <workItem from="1676457474731" duration="149000" />
+      <workItem from="1676467384525" duration="1465000" />
+      <workItem from="1676494907746" duration="55000" />
+      <workItem from="1676495240608" duration="1153000" />
+      <workItem from="1676552914917" duration="710000" />
+      <workItem from="1676587560178" duration="1249000" />
+      <workItem from="1676622010004" duration="1210000" />
+      <workItem from="1677013670184" duration="718000" />
+      <workItem from="1677071107905" duration="2063000" />
+      <workItem from="1677156063494" duration="2034000" />
     </task>
     <task id="LOCAL-00001" summary="Selenium">
       <created>1674549915741</created>
@@ -258,7 +302,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675344440687</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Selenium">
+      <created>1675419107722</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1675419107722</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

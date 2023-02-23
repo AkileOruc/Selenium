@@ -10,7 +10,7 @@ import java.time.Duration;
 
 public class TestBaseMethod {
 
-    protected WebDriver driver;
+    protected static WebDriver driver;
     // access modifier yazilmazsa default access modifier gecerli olur
     // default access modifier sadece icinde bulundugu utilities package'da gecerlidir
     // baska package'dan driver'a ulasmak icin

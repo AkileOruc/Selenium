@@ -37,14 +37,14 @@ public class Soru4HandleSlayt152 extends TestBaseMethod {
     driver.findElement(By.xpath("//*[text()='Login Portal']")).click();
         Thread.sleep(2000);
 
-     //============ICINDE OLMADIGIMIZ YENI HANDLE DEGERINI BULMALIYIZ=================
+     //============HENUZ ICINDE OLMADIGIMIZ YENI HANDLE DEGERINI BULMALIYIZ=================
 
       Set<String> tumHandleDegerleri= driver.getWindowHandles();
       String ikinciSayfaHandle="";
 
       //  System.out.println(ilkSayfaHandle);
       //  System.out.println(tumHandleDegerleri);
-//SET TE index yok
+//SET TE index yok for each yapmaliyiz
         for (String each:tumHandleDegerleri
              ) {
            if (!each.equals(ikinciSayfaHandle)){
@@ -58,7 +58,7 @@ driver.switchTo().window(ikinciSayfaHandle);
 // 5."username" ve "password" kutularina deger yazdirin
 
         WebElement username = driver.findElement(By.xpath("//*[@id=\"text\"]"));
-        actions.doubleClick(username).perform();
+        actions.click(username).perform();
         username.sendKeys("tester");
         Thread.sleep(2000);
         WebElement password = driver.findElement(By.id("password"));
@@ -72,8 +72,8 @@ driver.switchTo().window(ikinciSayfaHandle);
         Thread.sleep(2000);
 //7.Popup'ta cikan yazinin "validation failed" oldugunu test edin
 String expectedAlertText="validation failed";
-String actuelAlertText=driver.switchTo().alert().getText();
-Assert.assertEquals(expectedAlertText,actuelAlertText);
+String actualAlertText=driver.switchTo().alert().getText();
+Assert.assertEquals(expectedAlertText,actualAlertText);
 
 //8.Ok diyerek Popup'i kapatin
         driver.switchTo().alert().accept();

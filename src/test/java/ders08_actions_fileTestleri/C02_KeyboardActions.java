@@ -53,6 +53,7 @@ public class C02_KeyboardActions extends TestBaseMethod {
                 .sendKeys(Keys.TAB)
                 .sendKeys(Keys.TAB)
                 .sendKeys(Keys.ARROW_RIGHT)
+                .sendKeys(Keys.ARROW_LEFT)
                 .sendKeys(Keys.TAB)
                 .sendKeys(Keys.TAB)
                 .sendKeys(Keys.TAB)

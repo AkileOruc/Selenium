@@ -1,0 +1,71 @@
+INSTRUCTIONS:
+In this assignment you will be creating an automation script for signing up and logging into the application.
+Create the script in your own IDE, once finished, push the code to your own repository and share the repo link here in a given repoLink.txt file and submit.
+Write all the code in the main method.
+STEPS: birinci
+1. Navigate to http://qa-duotify.us-east-2.elasticbeanstalk.com/register.php
+2. Verify the the title is "Welcome to Duotify!"
+3. Click on Signup here
+4. Fill out the form with the required info
+5. Click on Sign up
+6. Once logged in to the application, verify that the URL is:
+http://qa-duotify.us-east-2.elasticbeanstalk.com/browse.php?
+7. In the left navigation bar, verify that your first and last name matches the first and last name that you used when signing up.
+8. Click on the username on the left navigation bar and verify the username on the main window is correct and then click logout.
+9. Verify that you are logged out by verifying the URL is:
+http://qa-duotify.us-east-2.elasticbeanstalk.com/register.php
+10. Login using the same username and password when you signed up.
+11. Verify successful login by verifying that the home page contains the text "You Might Also Like".
+22 h 34
+ikinci:  CREATE A WEB ORDER
+1. Launch Chrome browser.
+2. Navigate to http://secure.smartbearsoftware.com/samples/TestComplete12/WebOrders/Login.aspx
+3. Login using username Tester and password test
+4. Click on Order link
+5. Enter a random product quantity between 1 and 100
+6. Click on Calculate and verify that the Total value is correct.
+   Price per unit is 100.  The discount of 8 % is applied to quantities of 10+.
+   So for example, if the quantity is 8, the Total should be 800.
+   If the quantity is 20, the Total should be 1840.
+   If the quantity is 77, the Total should be 7084. And so on.
+6. Generate and enter random first name and last name.
+7. Generate and Enter random street address
+8. Generate and Enter random city
+9. Generate and Enter random state
+10. Generate and Enter a random 5 digit zip code
+EXTRA: As an extra challenge, for steps 6-10 download 1000 row of corresponding realistic data from mockaroo.com in a csv format and load it to your program and use the random set of data from there each time.
+11. Select the card type randomly. On each run your script should select a random type.
+12. Generate and enter the random card number:
+      If Visa is selected, the card number should start with 4.
+      If MasterCard is selected, card number should start with 5.
+      If American Express is selected, card number should start with 3.
+      Card numbers should be 16 digits for Visa and MasterCard, 15 for American Express.
+13. Enter a valid expiration date (newer than the current date)
+14. Click on Process
+15. Verify that “New order has been successfully added” message appeared on the page.
+16. Click on View All Orders link.
+17. The placed order details appears on the first row of the orders table. Verify that the entire information contained on the row (Name, Product, Quantity, etc) matches the previously entered information in previous steps.
+18. Log out of the application.
+Push your code to GitHub, and share the repo link in the given repo.txt file
+22 h 34
+ucuncu: USED CAR SEARCH
+1.    Navigate  to carfax.com
+2.    Click on Find a Used Car
+3.    Verify the page title contains the word “Used Cars”
+4.    Choose “Tesla” for  Make.
+5.    Verify that the Select Model dropdown box contains 4 current Tesla models - (Model 3, Model S, Model X, Model Y).
+6.    Choose “Model S” for Model.
+7.    Enter the zip code 22182 and click Next
+8.    Verify that the page contains the text “Step 2 – Show me cars with”
+9.    Check all 4 checkboxes.
+10.    Save the count of results from “Show me X Results” button. In this case it is 10 (It could be different in your case).
+11.    Click on “Show me x Results” button.
+12.    Verify the results count by getting the actual number of results displayed in the page by getting the count of WebElements that represent each result
+13.    Verify that each result header contains “Tesla Model S”.
+14.    Get the price of each result and save them into a List in the order of their appearance. (You can exclude “Call for price” options)
+15.    Choose “Price - High to Low” option from the Sort By menu
+16.    Verify that the results are displayed from high to low price.
+17.    Choose “Mileage - Low to High” option from Sort By menu
+18.    Verify that the results are displayed from low to high mileage.
+19.    Choose “Year - New to Old” option from Sort By menu
+20.    Verify that the results are displayed from new to old year.
